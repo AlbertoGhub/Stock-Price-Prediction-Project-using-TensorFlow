@@ -56,7 +56,7 @@ Let us begin with a quick overview of some of the most well-known and influentia
 
 Next, we visualise the **trading volume** of these nine stocks over time:
 
-> *(Image to be added)*
+![Image](https://github.com/user-attachments/assets/a7745c1c-45d9-4492-95b0-169c2456b363)
 
 ### 📈 What Does Trading Volume Indicate?
 
@@ -77,7 +77,7 @@ In the following section, we will perform a more detailed analysis of **Apple’
 This section highlights a visual analysis of Apple Inc. (AAPL) stock prices between 2013 and 2018. The chart below illustrates key trends and price movements, offering insight into market behaviour over this five-year span.
 
 
-*(imaghe)
+![Image](https://github.com/user-attachments/assets/a5a7f4f5-f985-4d78-af30-7418cf329aff)
 
 
 ## 🔍 Key Observations
@@ -136,7 +136,7 @@ The consistent drop in loss shows that the model effectively learned from histor
 
 The chart below visualises the model's performance on unseen test data:
 
-(image)
+![Image](https://github.com/user-attachments/assets/7158ccb2-6b29-4ca3-909f-852df7d18265)
 
 - 🔵 **Training Data:** Historical prices used to fit the model  
 - 🟠 **Test Data:** Real stock prices the model hasn’t seen  
