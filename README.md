@@ -50,7 +50,7 @@ pip install pandas numpy matplotlib seaborn tensorflow yfinance scikit-learn
 
 Let us begin with a quick overview of some of the most well-known and influential technology companies — including NVIDIA, Google, Apple, Facebook, and others. The figure below illustrates the trend of their **open** and **close** stock prices over a five-year period:
 
-> *(Image to be added)*
+![Image](https://github.com/user-attachments/assets/2bec4206-e021-49fb-9c8f-bb9618ab5d9a)
 
 ---
 
