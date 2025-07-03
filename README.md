@@ -6,6 +6,20 @@ This project demonstrates how to predict stock prices using **Long Short-Term Me
 
 ---
 
+## 📊 Dataset Features Overview
+
+| Feature   | Description                             |
+|-----------|---------------------------------------|
+| ⏳ **Date**      | Timestamp of the stock price record    |
+| 📈 **Open**      | Opening stock price  |
+| 📉 **Close**     | Closing stock price  |
+| 🔼 **High**      | Highest share price during the time period           |
+| 🔽 **Low**       | Lowest share price during the time period            |
+| 📦 **Volume**    | Number of shares traded                              |
+| 🏷️ **Name**      | Stock code or share name                              |
+
+---
+
 ## ✨ Key Features
 
 - 📊 **Data Acquisition**  
